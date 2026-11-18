@@ -1,3 +1,7 @@
+#Blessel Mae F Mondoy, BSS 3-A, CT5, Python Calculator in TKinter
+#This Tkinter calculator features a deep navy blue background and custom color-coded buttons, complete with precise cursor navigation (< and ►), an integrated backspace function, and a high-visibility blinking entry cursor to make editing complex mathematical expressions seamless.
+
+
 <img width="1366" height="768" alt="Calculator_CT5_Mondoy" src="https://github.com/user-attachments/assets/f223eead-daa8-4605-95e5-c43a71dfd9f5" />
 
 # Python-GUI-Calculator
